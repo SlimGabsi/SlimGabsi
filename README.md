@@ -27,10 +27,10 @@ http://slimgabsi.github.io/
 - [LinkedIn](https://www.linkedin.com/in/slim-gabsi/)
 
 
-
 Thanks for stopping by! ✨
 
 ![](https://komarev.com/ghpvc/?username=slimgabsi)
+
 
 <!--
 **slimgabsi/slimgabsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
