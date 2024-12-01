@@ -16,7 +16,7 @@ Welcome to my GitHub profile!
 
 ## 🕹️ Fun Projects
 
-http://slimgabsi.github.io/
+https://portfolio-kappa-blue-57.vercel.app/
 
 ## 📈 GitHub Stats
 
